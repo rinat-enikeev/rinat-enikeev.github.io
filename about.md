@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
 
-### More Information
+### Hi, my name is Rinat Enikeev
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a software developer living in Ufa, Russia. I like to make cool and robust software, regardless of what medium I'm working in.
 
-### Contact me
+### Skill set
 
-[email@domain.com](mailto:email@domain.com)
+iOS  90%
+Java 80%
