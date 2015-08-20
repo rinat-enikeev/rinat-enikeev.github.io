@@ -1,9 +1,35 @@
 ---
 layout: post
-title: You're up and running!
+title: "You're up and running!"
+published: true
 ---
 
+
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+
+{% highlight swift %}
+import Foundation
+
+extension CALayer {
+    var borderColorIB : UIColor {
+        get {
+            return UIColor(CGColor: self.borderColor)!
+        }
+        set {
+            self.borderColor = newValue.CGColor
+        }
+    }
+    
+    var shadowColorIB : UIColor {
+        get {
+            return UIColor(CGColor: self.shadowColor)!
+        }
+        set {
+            self.shadowColor = newValue.CGColor
+        }
+    }
+}
+{% endhighlight %}
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
