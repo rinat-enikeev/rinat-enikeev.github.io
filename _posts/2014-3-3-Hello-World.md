@@ -2,10 +2,18 @@
 layout: post
 title: "You're up and running!"
 published: true
+tags: 
+  - uml
+  - vernality
 ---
 
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+#Vernality
+Vernality means early days or 'springtime' of some thing. That's really interesting to take part in the 'springtime' projects, to grow up something from the beginning. Since I've developed my own iOS apps I've faced a common issue: one man is no man. Design, marketing, user support - that really eats up tons of time and effort. 
+
+>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 {% highlight swift %}
 import Foundation
