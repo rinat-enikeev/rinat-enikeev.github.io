@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You're up and running!"
+title: Vernality
 published: true
 tags: 
   - uml
@@ -8,37 +8,11 @@ tags:
 ---
 
 
-#Vernality
-Vernality means early days or 'springtime' of some thing. That's really interesting to take part in the 'springtime' projects, to grow up something from the beginning. Since I've developed my own iOS apps I've faced a common issue: one man is no man. Design, marketing, user support - that really eats up tons of time and effort. 
+>Vernality [means](http://phrontistery.info/v.html) early days or 'springtime' of some thing. 
 
->Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+That's really interesting to take part in the 'springtime' projects, to grow up something from the beginning. Much better than writing some boring enterprise code, isn't it, ha? Apple AppStore market looks promising for single developer, and I've  started developing my own iOS apps. And, your guess what, I've faced a common problem: one man is no man. Design, marketing, user support - that really eats up tons of time and effort. 
 
+> ... ten persons, therefore, could make among them upwards of forty-eight thousand pins in a day. Each person, therefore, making a tenth part of forty-eight thousand pins, might be considered as making four thousand eight hundred pins in a day. But if they had all wrought separately and independently, and without any of them having been educated to this peculiar business, they certainly could not each of them have made twenty, perhaps not one pin in a day. 
+*Adam Smith. Wealth of Nations* 
 
-{% highlight swift %}
-import Foundation
-
-extension CALayer {
-    var borderColorIB : UIColor {
-        get {
-            return UIColor(CGColor: self.borderColor)!
-        }
-        set {
-            self.borderColor = newValue.CGColor
-        }
-    }
-    
-    var shadowColorIB : UIColor {
-        get {
-            return UIColor(CGColor: self.shadowColor)!
-        }
-        set {
-            self.shadowColor = newValue.CGColor
-        }
-    }
-}
-{% endhighlight %}
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I've found that it is extremely hard to find a talented partner, ready to work hard and take share in projects profit. Hiring a freelancer is not a good solution to bring some more warriors to the front, so.. I've spent a lot of time in some of the cofounder's seeking websites. Nothing. 
