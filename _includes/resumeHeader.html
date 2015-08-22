@@ -2,6 +2,7 @@
     <div class="container-fluid">
         <div class="row-fluid">
             <div class="col-sm-4">
+                <img src="../images/{{ site.owner.avatar }}" title="Avatar" alt="My Avatar">
                 <h4>{{ site.author.name }}</h4>
                 <p>{{ site.author.title }}</p>
                 <p class="muted">{{ site.author.address }}</p>
@@ -9,7 +10,7 @@
             </div>
             <div class="col-sm-4 visible-md-block visible-lg-block visible-sm-block">
                 <p><i class="fa fa-envelope-o fa-fw"></i> {{ site.author.email }} </p>
-                <p><i class="fa fa-github fa-fw"></i><a href="https://github.com/{{ site.author.github }}" target="_blank">  @{{ site.author.github }} </a></p>
+                <p><i class="fa fa-github fa-fw"></i><a href="https://github.com/{{ site.author.github }}" target="_blank">  {{ site.author.github }} </a></p>
                 <p><i class="fa fa-facebook fa-fw"></i> <a href="https://facebook.com/{{ site.author.facebook }}" target="_blank"> {{ site.author.facebook }} </a></p>
                 <p><i class="fa fa-skype fa-fw"></i> {{ site.author.skype }} </p>
             </div>

@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Vernality
-published: true
-tags: 
-  - uml
-  - vernality
+title: Of the Division of Labor					
+description: Of the Division of Labor
+headline: Of the Division of Labor
+modified: 2015-08-23				
+category: Vernality
+tags: [vernality, division, labor]
+imagefeature: adamSmith.jpg
+comments: true
+mathjax:
 ---
-
 
 
 
