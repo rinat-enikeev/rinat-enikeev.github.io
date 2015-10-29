@@ -161,7 +161,7 @@ author:
   facebook: enikeev
   workHistory:
     - work1:
-      company: Self-employeed
+      company: Independent & Contract iOS Development
       location: Ufa, Russia
       title: iOS Developer
       started: 2014
@@ -170,7 +170,7 @@ author:
     - work2:
       company: it.ru
       location: Ufa, Russia
-      title: Java Developer
+      title: Senior Java Developer
       started: 2012
       duration: (2012 - 2014)
       description:
@@ -237,13 +237,16 @@ author:
       percentage: 100%
     - skill2:
       name: Swift
-      percentage: 90%
+      percentage: 100%
     - skill3:
-      name: Git
+      name: Cocoa Touch
       percentage: 90%
     - skill4:
-      name: HTTP/Rest
-      percentage: 80%
-    - skill5:
       name: Java/Java EE
       percentage: 90%
+    - skill5:
+      name: Git
+      percentage: 90%
+    - skill6:
+      name: HTTP/Rest
+      percentage: 80%
