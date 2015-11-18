@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Architecting iOS App
 description: The complete example of a complex iOS app architecture
 headline: Let me show an example of one iOS app I have designed.
