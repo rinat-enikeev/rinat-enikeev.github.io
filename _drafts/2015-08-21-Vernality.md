@@ -1,19 +1,26 @@
 ---
 layout: post
-title: Vernality
+title: "Hello there!  "
 published: true
-tags: 
-  - uml
-  - vernality
+tags: "my,personal"
+description: Initial post
+headline: "Just want to say hello!"
+modified: ""
+categories: 
+  - personal
+imagefeature: ""
+mathjax: false
+featured: false
+comments: false
 ---
 
 
+This is my first post and I want to tell you what you may expect from this blog. 
 
->Vernality [means](http://phrontistery.info/v.html) early days or 'springtime' of some thing. 
+First of all - if you are English 'grammar nazi', please do not read this blog. My English is pretty simple and sometimes I'm getting wrong, especially with sentence constructions. Please, be kind. If you really want to help me with me English - just write a comment down below or contact me via email. And yes, probably later I'll hire a teacher and we will check all my texts..
 
-That's really interesting to take part in the 'springtime' projects, to grow up something from the beginning. Much better than writing some boring enterprise code, isn't it, ha? Apple AppStore market looks promising for single developer, and I've  started developing my own iOS apps. And, your guess what, I've faced a common problem: one man is no man. Design, marketing, user support - that really eats up tons of time and effort. 
+Second - scope. It primiraly is a software developer blog. I'm interesting in software engineering, architecture and so on. I'm currently enrolled in local University and currently preparing thesis about non-parametric probability density function estimation (small sample size). You may find something about it in the blog. 
 
-> ... ten persons, therefore, could make among them upwards of forty-eight thousand pins in a day. Each person, therefore, making a tenth part of forty-eight thousand pins, might be considered as making four thousand eight hundred pins in a day. But if they had all wrought separately and independently, and without any of them having been educated to this peculiar business, they certainly could not each of them have made twenty, perhaps not one pin in a day. 
-*Adam Smith. Wealth of Nations* 
+Last but not least - if you have ANY questions to me - please contact me with either skype: rinatenikeev or email: rinat.enikeev@gmail.com. English is ok. 
 
-I've found that it is extremely hard to find a talented partner, ready to work hard and take share in projects profit. Hiring a freelancer is not a good solution to bring some more warriors to the front, so.. I've spent a lot of time in some of the cofounder's seeking websites. Nothing.
+Thanks! Hope you'll find something intersting here, anyway, any feedback is is greatly appreciated.
