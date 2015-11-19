@@ -7,9 +7,9 @@ headline: Let me show an example of one iOS app I have designed.
 modified: ""
 categories: 
   - engineering
-  - Architecting
-  - iOS
-tags: "architecture, iOS, SOLID, Layers, "
+  - architecture
+  - ios
+tags: "architecture,iOS,SOLID,Layers"
 imagefeature: ""
 mathjax: false
 featured: false

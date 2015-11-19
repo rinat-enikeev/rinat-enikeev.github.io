@@ -113,16 +113,20 @@ prose:
           options:
             - name: "Personal"
               value: personal
+            - name: "Architecture"
+              value: architecture
             - name: "Engineering"
               value: engineering
+            - name: "Maths"
+              value: maths
             - name: "Physics"
               value: physics
-            - name: "Psychology"
-              value: psychology
+            - name: "Philosophy"
+              value: philosophy
             - name: "Interesting"
               value: interesting
-            - name: "Web-Development"
-              value: webdevelopment
+            - name: "iOS"
+              value: ios
           alterable: true
       - name: "tags"
         field:
