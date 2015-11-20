@@ -8,7 +8,7 @@ headline: "Just want to say hello!"
 modified: ""
 categories: 
   - personal
-imagefeature: ""
+imagefeature: "meInGoogle.jpg"
 mathjax: false
 featured: false
 comments: false
