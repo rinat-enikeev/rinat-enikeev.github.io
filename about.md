@@ -8,7 +8,7 @@ chart: true
 ---
 
 
-### Hi, my name is Rinat Enikeev
+Hi,
 
 I majored at Swift for iOS app development and am using Objective C since iOS 4 was published. 
 
