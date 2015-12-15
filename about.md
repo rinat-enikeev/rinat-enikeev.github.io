@@ -15,14 +15,14 @@ I majored at Swift for iOS app development and am using Objective C since iOS 4 
 I love to challenge new technology!  
 
 My major is: 
-- Swift 
-- Objective-C   
+- Swift
+- Objective-C
 - Java 
 
 My faculty is: 
-- iPhone &amp; iPad Native App Development 
-- REST APIs (JSON, XML, SOAP) 
-- Third party frameworks (Facebook, Twitter, Instagram, Google plus, etc.) 
+- iPhone &amp; iPad Native App Development
+- REST APIs (JSON, XML, SOAP)
+- Third party frameworks (Facebook, Twitter, Instagram, Google plus, etc.)
 - Java backend (Jersey, GAE).
 - Rich GWT web apps. 
 
