@@ -37,8 +37,7 @@ I can: Do basic AppStore marketing and analytics, pass the app review and publis
 My educational background contains strong maths and physics study in MEPhI (National Research Nuclear University) and relevant Computer Science study in Ufa State Aviation Technical University.
 
 
-I'll be glad to answer any of your questions.  
-
+I'll be glad to answer any of your questions (rinat.enikeev@gmail.com). 
 
 Thank you, 
 Rinat
