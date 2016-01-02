@@ -16,6 +16,8 @@ featured: false
 comments: true
 ---
 
+An app that allows user to post in multiple social networks simultaneously. 
+
 ## Annotation
 
 Given a brief description - 'an app that allows user to post in multiple social networks simultaneously' an app architecting process was reviewed. App architecture was developed and described in Layers and UML notation based on common OOP design principles and patterns. As an example instagram modules were developed and published on github. 
