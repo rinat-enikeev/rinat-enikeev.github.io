@@ -165,48 +165,55 @@ author:
   facebook: enikeev
   workHistory:
     - work1:
+      company: ICONIQ GmbH
+      location: remote
+      title: Sr iOS Developer
+      started: 2015
+      duration: (2015 - 2016)
+      description:
+    - work2:
       company: Independent & Contract iOS Development
       location: Ufa, Russia
       title: iOS Developer
       started: 2014
-      duration: (2014 - Present)
+      duration: (2014 - 2015)
       description:
-    - work2:
+    - work3:
       company: it.ru
       location: Ufa, Russia
       title: Senior Java Developer
       started: 2012
       duration: (2012 - 2014)
       description:
-    - work3:
+    - work4:
       company: The Institute of Radioengineering and Electronics of Russian Academy of Sciences
       location: Moscow, Russia
       title: Junior Researcher
       started: 2010
       duration: (2010 - 2011)
       description:
-    - work4:
+    - work5:
       company: Mail.ru
       location: Moscow, Russia
       title: Software Developer
       started: 2009
       duration: (2009 - 2010)
       description:
-    - work4:
+    - work6:
       company: OGK2
       location: Moscow, Russia
       title: Software Developer
       started: 2008
       duration: (2008 - 2009)
       description:
-    - work5:
+    - work7:
       company: Big Soil
       location: Moscow, Russia
       title: Software Developer
       started: 2007
       duration: (2007 - 2008)
       description:
-    - work5:
+    - work8:
       company: Lamira
       location: Moscow, Russia
       title: Software Developer
