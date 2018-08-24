@@ -408,5 +408,394 @@
         "height": 250
       }
     ]
+  },
+  {
+    "id": 1,
+    "name": "Weather",
+    "price": 0.0,
+    "zipUrl": "https://rinat-enikeev.github.io/stickers/2.zip",
+    "preview": "https://rinat-enikeev.github.io/stickers/2.png",
+    "stickers": [
+      {
+        "fileName": "0.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/0.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "1.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/1.png",
+        "isGif": false,
+        "keywords": [ "wind"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "2.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/2.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "3.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/3.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "4.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/4.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "5.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/5.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "6.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/6.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "7.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/7.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },{
+        "fileName": "8.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/8.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "9.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/9.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "10.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/10.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "11.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/11.png",
+        "isGif": false,
+        "keywords": [ "wind"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "12.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/12.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "13.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/13.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "14.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/14.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "15.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/15.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "16.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/16.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "17.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/17.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },{
+        "fileName": "18.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/18.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "19.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/19.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "20.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/20.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "21.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/21.png",
+        "isGif": false,
+        "keywords": [ "wind"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "22.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/22.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "23.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/23.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "24.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/24.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "25.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/25.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "26.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/26.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "27.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/27.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },{
+        "fileName": "28.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/28.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "29.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/29.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "30.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/30.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "31.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/31.png",
+        "isGif": false,
+        "keywords": [ "wind"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "32.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/32.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "33.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/33.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "34.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/34.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "35.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/35.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "36.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/36.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "37.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/37.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },{
+        "fileName": "38.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/38.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "39.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/39.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "40.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/40.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "41.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/41.png",
+        "isGif": false,
+        "keywords": [ "wind"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "42.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/42.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "43.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/43.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "44.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/44.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "45.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/45.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "46.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/46.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "47.png",
+        "url": "https://rinat-enikeev.github.io/stickers/2/47.png",
+        "isGif": false,
+        "keywords": [ "lightning"],
+        "width": 256,
+        "height": 256
+      }
+    ]
   }
 ]
