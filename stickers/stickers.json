@@ -211,7 +211,7 @@
   {
     "id": 1,
     "name": "Food",
-    "price": 0.0,
+    "price": 10.0,
     "zipUrl": "https://rinat-enikeev.github.io/stickers/1.zip",
     "preview": "https://rinat-enikeev.github.io/stickers/1.png",
     "stickers": [
