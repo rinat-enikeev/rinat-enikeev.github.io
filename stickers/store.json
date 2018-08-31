@@ -1,0 +1,227 @@
+[
+  {
+    "id": 3,
+    "name": "Dock",
+    "price": 0.0,
+    "zipUrl": "https://rinat-enikeev.github.io/stickers/3.zip",
+    "preview": "https://rinat-enikeev.github.io/stickers/3.png",
+    "stickers": [
+      {
+        "fileName": "applehdd.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/applehdd.png",
+        "isGif": false,
+        "keywords": [ "hdd", "apple" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "bittorrent.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/bittorrent.png",
+        "isGif": false,
+        "keywords": [ "bittorrent" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "blueray.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/blueray.png",
+        "isGif": false,
+        "keywords": [ "blueray" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "cdrom.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/cdrom.png",
+        "isGif": false,
+        "keywords": [ "cdrom", "cd" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "chrome.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/chrome.png",
+        "isGif": false,
+        "keywords": [ "chrome", "browser" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "dvdrom.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/dvdrom.png",
+        "isGif": false,
+        "keywords": [ "dvdrom", "dvd" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "facebook.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/facebook.png",
+        "isGif": false,
+        "keywords": [ "facebook" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "firefox.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/firefox.png",
+        "isGif": false,
+        "keywords": [ "firefox", "browser" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "firewirehdd.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/firewirehdd.png",
+        "isGif": false,
+        "keywords": [ "firewirehdd", "firewire", "hdd" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "gaming.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/gaming.png",
+        "isGif": false,
+        "keywords": [ "gaming", "game" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "gmail.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/gmail.png",
+        "isGif": false,
+        "keywords": [ "gmail", "mail" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "itunes.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/itunes.png",
+        "isGif": false,
+        "keywords": [ "itunes", "apple" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "mediaplayer.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/mediaplayer.png",
+        "isGif": false,
+        "keywords": [ "mediaplayer", "player" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "msn.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/msn.png",
+        "isGif": false,
+        "keywords": [ "msn" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "mycomputer.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/mycomputer.png",
+        "isGif": false,
+        "keywords": [ "computer" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "network.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/network.png",
+        "isGif": false,
+        "keywords": [ "network" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "pictures.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/pictures.png",
+        "isGif": false,
+        "keywords": [ "pictures" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "rss.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/rss.png",
+        "isGif": false,
+        "keywords": [ "rss" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "skype.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/skype.png",
+        "isGif": false,
+        "keywords": [ "skype" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "steam.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/steam.png",
+        "isGif": false,
+        "keywords": [ "steam" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "twitter.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/twitter.png",
+        "isGif": false,
+        "keywords": [ "twitter" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "usbhdd.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/usbhdd.png",
+        "isGif": false,
+        "keywords": [ "usbhdd", "hdd" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "utorrent.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/utorrent.png",
+        "isGif": false,
+        "keywords": [ "utorrent", "torrent" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "video.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/video.png",
+        "isGif": false,
+        "keywords": [ "video", "media" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "winamp.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/winamp.png",
+        "isGif": false,
+        "keywords": [ "winamp", "media" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "windowshdd.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/windowshdd.png",
+        "isGif": false,
+        "keywords": [ "windows", "hdd" ],
+        "width": 256,
+        "height": 256
+      },
+      {
+        "fileName": "youtube.png",
+        "url": "https://rinat-enikeev.github.io/stickers/3/youtube.png",
+        "isGif": false,
+        "keywords": [ "youtube", "media" ],
+        "width": 256,
+        "height": 256
+      }
+    ]
+  }
+]
