@@ -223,5 +223,134 @@
         "height": 256
       }
     ]
+  },
+  {
+    "id": 4,
+    "name": "Garden",
+    "price": 0.0,
+    "zipUrl": "https://rinat-enikeev.github.io/stickers/4.zip",
+    "preview": "https://rinat-enikeev.github.io/stickers/4.png",
+    "stickers": [
+      {
+        "fileName": "0.png",
+        "url": "https://rinat-enikeev.github.io/stickers/4/0.png",
+        "isGif": false,
+        "keywords": [ "garden", "brown" ],
+        "width": 128,
+        "height": 128
+      },
+      {
+        "fileName": "1.png",
+        "url": "https://rinat-enikeev.github.io/stickers/4/1.png",
+        "isGif": false,
+        "keywords": [ "garden", "flower" ],
+        "width": 128,
+        "height": 128
+      },
+      {
+        "fileName": "2.png",
+        "url": "https://rinat-enikeev.github.io/stickers/4/2.png",
+        "isGif": false,
+        "keywords": [ "garden", "flower" ],
+        "width": 128,
+        "height": 128
+      },
+      {
+        "fileName": "3.png",
+        "url": "https://rinat-enikeev.github.io/stickers/4/3.png",
+        "isGif": false,
+        "keywords": [ "garden", "flower" ],
+        "width": 128,
+        "height": 128
+      },
+      {
+        "fileName": "4.png",
+        "url": "https://rinat-enikeev.github.io/stickers/4/4.png",
+        "isGif": false,
+        "keywords": [ "garden", "flower" ],
+        "width": 128,
+        "height": 128
+      },
+      {
+        "fileName": "5.png",
+        "url": "https://rinat-enikeev.github.io/stickers/4/5.png",
+        "isGif": false,
+        "keywords": [ "garden", "flower" ],
+        "width": 128,
+        "height": 128
+      },
+      {
+        "fileName": "6.png",
+        "url": "https://rinat-enikeev.github.io/stickers/4/6.png",
+        "isGif": false,
+        "keywords": [ "garden", "flower" ],
+        "width": 128,
+        "height": 128
+      },
+      {
+        "fileName": "7.png",
+        "url": "https://rinat-enikeev.github.io/stickers/4/7.png",
+        "isGif": false,
+        "keywords": [ "garden", "flower" ],
+        "width": 128,
+        "height": 128
+      },
+      {
+        "fileName": "8.png",
+        "url": "https://rinat-enikeev.github.io/stickers/4/8.png",
+        "isGif": false,
+        "keywords": [ "garden", "leaf" ],
+        "width": 128,
+        "height": 128
+      },
+      {
+        "fileName": "9.png",
+        "url": "https://rinat-enikeev.github.io/stickers/4/9.png",
+        "isGif": false,
+        "keywords": [ "garden", "leaf" ],
+        "width": 128,
+        "height": 128
+      },
+      {
+        "fileName": "10.png",
+        "url": "https://rinat-enikeev.github.io/stickers/4/10.png",
+        "isGif": false,
+        "keywords": [ "garden", "leaf" ],
+        "width": 128,
+        "height": 128
+      },
+      {
+        "fileName": "11.png",
+        "url": "https://rinat-enikeev.github.io/stickers/4/11.png",
+        "isGif": false,
+        "keywords": [ "garden", "leaf" ],
+        "width": 128,
+        "height": 128
+      },
+      {
+        "fileName": "12.png",
+        "url": "https://rinat-enikeev.github.io/stickers/4/12.png",
+        "isGif": false,
+        "keywords": [ "garden", "leaf" ],
+        "width": 128,
+        "height": 128
+      },
+      {
+        "fileName": "13.png",
+        "url": "https://rinat-enikeev.github.io/stickers/4/13.png",
+        "isGif": false,
+        "keywords": [ "garden", "leaf" ],
+        "width": 128,
+        "height": 128
+      },
+      {
+        "fileName": "14.png",
+        "url": "https://rinat-enikeev.github.io/stickers/4/14.png",
+        "isGif": false,
+        "keywords": [ "garden", "leaf" ],
+        "width": 128,
+        "height": 128
+      }
+    ]
   }
 ]
