@@ -1,5 +1,214 @@
 [
   {
+    "id": 0,
+    "name": "Andrew",
+    "price": 0.0,
+    "zipUrl": "https://rinat-enikeev.github.io/stickers/0.zip",
+    "preview": "https://rinat-enikeev.github.io/stickers/0.png",
+    "stickers": [
+      {
+        "fileName": "0.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/0.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":(", ",("],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "1.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/1.gif",
+        "isGif": true,
+        "keywords": [ "happy", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "2.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/2.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "3.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/3.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "4.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/4.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "5.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/5.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "6.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/6.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "7.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/7.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "8.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/8.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "9.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/9.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "10.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/10.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":(", ",("],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "11.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/11.gif",
+        "isGif": true,
+        "keywords": [ "happy", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "12.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/12.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "13.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/13.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "14.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/14.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "15.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/15.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "16.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/16.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "17.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/17.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "18.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/18.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "19.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/19.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "20.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/20.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":(", ",("],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "21.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/21.gif",
+        "isGif": true,
+        "keywords": [ "happy", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "22.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/22.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "23.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/23.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      },
+      {
+        "fileName": "24.gif",
+        "url": "https://rinat-enikeev.github.io/stickers/0/24.gif",
+        "isGif": true,
+        "keywords": [ "sad", ":)", ",)"],
+        "width": 360,
+        "height": 288
+      }
+    ]
+  },
+  {
     "id": 1,
     "name": "Food",
     "price": 10.0,
